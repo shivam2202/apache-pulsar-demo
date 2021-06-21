@@ -24,7 +24,7 @@ in Pulsar documentation to start a Pulsar standalone locally.
    mvn clean install -DskipTests 
    ```
 
-3. Run [SimpleProducer](demo/src/main/java/com/softtech/demo/SimpleProducer.java) for producing messages. This class takes no of messages to produce as input
+3. Run [SimpleProducer](demo/src/main/java/com/softtech/demo/SimpleProducer.java) for producing messages. This class takes no of messages to produce as argument
  
 
 4. Run [SimpleConsumer](demo/src/main/java/com/softtech/demo/SimpleConsumer.java) for listening messages.
