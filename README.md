@@ -1,6 +1,6 @@
 # Simple Consumer/Producer Example
 
-This example demonstrates how to send and recieve message topic.
+This example demonstrates how to send and recieve message topic with default values. For java client details refer to [documentation](https://pulsar.apache.org/docs/en/client-libraries-java/)
 
 ## Prerequisites
 
